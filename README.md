@@ -74,11 +74,11 @@ The Prediction of Bank Credit Risk Final Model Run in Local Enviornment
 
 1. Home Page :
 
-![Resources](bank1.png)
+![](Resources/bank1.png)
 
 2. Result Page :
 
-![Resources](bank2.png)
+![](Resources/bank2.png)
 
 ## Deployment Link
 
