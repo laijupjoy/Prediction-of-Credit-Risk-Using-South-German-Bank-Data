@@ -66,6 +66,11 @@ problem is to use data mining techniques. Data mining makes it possible to find 
 8. Webpage & deployment :  1. Created a web application that takes all the necessary inputs from user and shows output.
                            2. After Create we application, We had Deploy at Heroku Platform
                            3. And after We had deployed project on AWS Elastic elastic beanstalk.
+                           
+### Model Workflow
+
+![](Resources/design.png)
+
 ~~~
 
 ## Web Application User Interface:
@@ -80,15 +85,6 @@ The Prediction of Bank Credit Risk Final Model Run in Local Enviornment
 
 ![](Resources/bank2.png)
 
-## Deployment Link
-
-Heroku Link :
-
-Heroku Link For Data Report : 
-
-AWS Link : http:
-
-AWS Link For Data Report :
 
 ## File Structure
 ~~~
@@ -148,6 +144,15 @@ pip install -r requirements.txt
 ~~~
 Run app.py file
 ~~~
+## Deployment Link
+
+Heroku Link :
+
+Heroku Link For Data Report : 
+
+AWS Link : http:
+
+AWS Link For Data Report :
 
 ## Technology Used
 ~~~
