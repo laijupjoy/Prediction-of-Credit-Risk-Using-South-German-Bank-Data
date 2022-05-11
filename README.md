@@ -4,7 +4,7 @@
 - Introduction
 - Approach
 - Model Workflow
-- User Interface
+- Web Application User Interface
 - File Structure
 - Installation
 - Deployment Link
@@ -116,8 +116,6 @@ templates----------------------|
 |                              |---index.html
 |                              |---result.html
 |                              |---German_Credit_Data.html
-|venv
-|
 |app.py
 |
 |Credit_Data_RF.pkl
