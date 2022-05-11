@@ -66,12 +66,11 @@ problem is to use data mining techniques. Data mining makes it possible to find 
 8. Webpage & deployment :  1. Created a web application that takes all the necessary inputs from user and shows output.
                            2. After Create we application, We had Deploy at Heroku Platform
                            3. And after We had deployed project on AWS Elastic elastic beanstalk.
-                           
-### Model Workflow
+~~~
+
+## Model Workflow
 
 ![](Resources/model.png)
-
-~~~
 
 ## Web Application User Interface:
 
