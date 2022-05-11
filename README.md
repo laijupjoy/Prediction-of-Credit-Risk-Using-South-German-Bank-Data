@@ -3,10 +3,11 @@
 ## Table of Content
 - Introduction
 - Approach
+- Model Workflow
 - User Interface
-- Deployment Link
 - File Structure
 - Installation
+- Deployment Link
 - Technology Used
 - Document
 
