@@ -77,11 +77,11 @@ problem is to use data mining techniques. Data mining makes it possible to find 
 
 The Prediction of Bank Credit Risk Final Model Run in Local Enviornment
 
-1. Home Page :
+### 1. Home Page :
 
 ![](Resources/bank1.png)
 
-2. Result Page :
+### 2. Result Page :
 
 ![](Resources/bank2.png)
 
