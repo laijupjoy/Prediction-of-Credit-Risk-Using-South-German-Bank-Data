@@ -118,6 +118,12 @@ templates----------------------|
 |                              |---German_Credit_Data.html
 |app.py
 |
+|Analysis of Credit Card.py
+|
+|Preprocessing of Credit Data.py
+|
+|Model Building on Credit Data.py
+|
 |Credit_Data_RF.pkl
 |
 |Procfile
