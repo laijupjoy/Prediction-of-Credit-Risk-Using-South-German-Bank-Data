@@ -69,7 +69,7 @@ problem is to use data mining techniques. Data mining makes it possible to find 
                            
 ### Model Workflow
 
-![](Resources/design.png)
+![](Resources/model.png)
 
 ~~~
 
