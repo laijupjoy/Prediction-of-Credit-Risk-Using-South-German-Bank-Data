@@ -59,11 +59,11 @@ problem is to use data mining techniques. Data mining makes it possible to find 
 
 5. Feature Selection    :  Drop few non important coloumns in dataset.
 
-6. Feature  engineering :  Converting the categorical columns having ordinal values to Label Encoding
+6. Data Transformation  :  Converting the categorical columns having ordinal values to Label Encoding
                            Converting the categorical columns having non-ordinal values to One Hot Encoding
 
-7. Model Selection I    :  Trained Logistic Regression, Random Forest Classifier, Support Vector Machine, K- Nearest Neighbor and Naïve Bayes Classifier models.
-                           Tested all trained models to check the accuracy and F1 score, and select higher F1 score model.
+7. Model Selection I    :  Train Logistic Regression, Random Forest Classifier, Support Vector Machine, K- Nearest Neighbor and Naïve Bayes Classifier models.
+                           Test all trained models to check the accuracy and F1 score, and select higher F1 score model.
                        
 8. Model Selection II   :  Performed Hyperparameter tuning using gridsearchCV in selected higher F1 score model and improve the model perfomance.
 
