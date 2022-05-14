@@ -4,6 +4,7 @@
 - Introduction
 - Approach
 - Model Workflow
+- ML Model Perfomance Comparison & Model Selection.
 - Web Application User Interface
 - File Structure
 - Installation
@@ -73,6 +74,12 @@ problem is to use data mining techniques. Data mining makes it possible to find 
 
 ![](Resources/model.png)
 
+## ML Model Perfomance Comparison & Model Selection.
+
+![](Resources/comp.png)
+
+Select Random Forest model as best model, because it have higher F1 score.
+
 ## Web Application User Interface:
 
 The Prediction of Bank Credit Risk Final Model Run in Local Enviornment
@@ -116,6 +123,9 @@ templates----------------------|
 |                              |---index.html
 |                              |---result.html
 |                              |---German_Credit_Data.html
+|venv
+|
+|
 |app.py
 |
 |Analysis of Credit Card.py
