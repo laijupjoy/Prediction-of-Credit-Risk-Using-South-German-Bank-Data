@@ -53,19 +53,21 @@ problem is to use data mining techniques. Data mining makes it possible to find 
 
 2. Data visualization   : Ploted graphs to get insights about dependend and independed variables. 
 
-3. Feature Selection    :  Drop few non important coloumns in dataset.
+3. Data Cleaning        : Check whether the data contain any missing values and Outliers.
 
-4. Feature  engineering :  Converting the categorical columns having ordinal values to Label Encoding
+4. Feature Selection    :  Drop few non important coloumns in dataset.
+
+5. Feature  engineering :  Converting the categorical columns having ordinal values to Label Encoding
                            Converting the categorical columns having non-ordinal values to One Hot Encoding
 
-5. Model Selection I    :  Trained Logistic Regression, Random Forest Classifier, Support Vector Machine, K- Nearest Neighbor and Naïve Bayes Classifier models.
+6. Model Selection I    :  Trained Logistic Regression, Random Forest Classifier, Support Vector Machine, K- Nearest Neighbor and Naïve Bayes Classifier models.
                            Tested all trained models to check the accuracy and F1 score, and select higher F1 score model.
                        
-6. Model Selection II   :  Performed Hyperparameter tuning using gridsearchCV in selected higher F1 score model and improve the model perfomance.
+7. Model Selection II   :  Performed Hyperparameter tuning using gridsearchCV in selected higher F1 score model and improve the model perfomance.
 
-7. Pickle File          :  Selected model as per best F1 score and created pickle file using Python pickle module.
+8. Pickle File          :  Selected model as per best F1 score and created pickle file using Python pickle module.
 
-8. Webpage & deployment :  1. Created a web application that takes all the necessary inputs from user and shows output.
+9. Webpage & deployment :  1. Created a web application that takes all the necessary inputs from user and shows output.
                            2. After Create we application, We had Deploy at Heroku Platform
                            3. And after We had deployed project on AWS Elastic elastic beanstalk.
 ~~~
