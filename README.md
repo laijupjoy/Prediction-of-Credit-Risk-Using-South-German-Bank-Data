@@ -58,6 +58,9 @@ problem is to use data mining techniques. Data mining makes it possible to find 
 4. EDA Analysis         : EDA Analysis with Summary Table, Histogram, Density Plots,correlation matrix.
 
 5. Feature Selection    :  Drop few non important coloumns in dataset.
+                           They are 'other_debtors','other_installment_plans','housing','job','people_liable','foreign_worker'.
+                           Job and housing correlated to other features.
+                           other_debtors,other_installment_plans,people_liable,foreign_worker features are highly imbalanced categorical features.
 
 6. Data Transformation  :  Converting the categorical columns having ordinal values to Label Encoding
                            Converting the categorical columns having non-ordinal values to One Hot Encoding
