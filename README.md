@@ -171,9 +171,9 @@ Heroku Link :
 
 Heroku Link For Data Report : 
 
-AWS Link : http:
+AWS Link : http://creditriskapp-env-1.eba-552u2st3.us-east-1.elasticbeanstalk.com
 
-AWS Link For Data Report :
+AWS Link For Data Report : http://creditriskapp-env-1.eba-552u2st3.us-east-1.elasticbeanstalk.com/report
 
 ## Technology Used
 ~~~
