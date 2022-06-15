@@ -192,4 +192,4 @@ AWS Link For Data Report : http://creditriskapp-env-1.eba-552u2st3.us-east-1.ela
 ## Document
 Below providing the link of all the document that are required for creating the project.
 
-Link: [Document Link](https://drive.google.com/drive/folders/1epHC2KsQRs5fw7Doz_nS_V8Kny9hie7n?usp=sharing)
+Link: [Document Link]()
